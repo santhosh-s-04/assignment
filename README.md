@@ -1,1 +1,4 @@
-# assignment
+It contains headercode.py and main.py file that are attached here. In headercode.py file it contains the crd operations code and in main.py file it contains the driver code in which it gives the option to choose which crd operation to be choosen and utilizes headercode.py.
+To run the script in windows open command line :start menu-> run and type cmd.After opening cmd in cmd type the file location in which the main.py is saved or if your system is configured correctly, you can drag and drop your script from explorer onto the cmd and press enter.
+To run the script in mac os x open command line- Finder->Go menu -> Applications -> Terminal and type : python ~and type the file location in which the main.py is saved.
+To run the script in Linux open a command prompt (eg xterm) and type: python ~and type the file location in which the main.py is saved.
